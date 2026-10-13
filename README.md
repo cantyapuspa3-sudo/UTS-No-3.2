@@ -1,5 +1,6 @@
 # AuditGuard - Kas Keluar
 
+Link Demo Web App:https://cantyapuspa3-sudo.github.io/UTS-No-3.2/web_app_utk_UTS.html
 AuditGuard adalah aplikasi entri voucher kas keluar untuk latihan pemeriksaan auditor internal. Frontend HTML mengirim transaksi ke Supabase; PostgreSQL memvalidasi jurnal, mencatat metadata, membatasi akses, mengunci transaksi yang telah diposting, dan menyediakan reversing entry serta pemeriksaan checksum.
 
 ## Fitur
